@@ -6,7 +6,7 @@ body {
   height: 100%;
   background-color: #f5e0e5;
   position: relative;
-  background-image: url("https://raw.githack.com/nadobrom185/Bakirov/main/binki.jpg");
+  background-image: url("https://raw.githack.com/nadobrom185/Bakirov/main/binki%20(1).jpg");
   font-family: "Roboto", sans-serif;
 }
 
@@ -14,7 +14,7 @@ body {
 
 
 .player {
-  background-image: url("https://raw.githack.com/nadobrom185/Bakirov/main/binki.jpg");
+  background-image: url("https://raw.githack.com/nadobrom185/Bakirov/main/binki%20(1).jpg");
   position: absolute;
   left: 50%;
   top: -50px;
