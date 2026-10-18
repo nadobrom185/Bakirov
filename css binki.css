@@ -116,7 +116,7 @@ body {
   font-size: 20px;
   font-weight: 600;
   margin-bottom: 2px;
-  color: #fae207;
+  color: #e81321;
 }
 
 
@@ -124,7 +124,7 @@ body {
 .player .info .singer {
   font-size: 14px;
   font-weight: 600;
-  color: white;
+  color: e81321;
 }
   
 .player .btn-box {
@@ -143,7 +143,7 @@ body {
 }
   
 .player .btn-box i.active {
-  color: RoyalBlue;
+  color: e81321;
 }
 
 
@@ -164,7 +164,7 @@ body {
   top: 50%;
   transform: translateY(-50%);
   cursor: pointer;
-  color: #72646f;
+  color: #e81321;
 }
   
 .player .volume-box .volume-up {
@@ -173,7 +173,7 @@ body {
   top: 50%;
   transform: translateY(-50%);
   cursor: pointer;
-  color: #72646f;
+  color: #e81321;
 }
   
 .player .volume-box .volume-up::selection {
@@ -212,7 +212,7 @@ body {
   top: 50%;
   transform: translateY(-50%);
   font-size: 12px;
-  color: white;
+  color: e81321;
 }
   
 .player .music-box .duration {
@@ -221,7 +221,7 @@ body {
   top: 50%;
   transform: translateY(-50%);
   font-size: 12px;
-  color: white;
+  color: e81321;
 }
   
 .player .music-box .play,
@@ -233,7 +233,7 @@ body {
   width: 50px;
   height: 50px;
   border-radius: 50px;
-  background-color: white;
+  background-color: e81321;
   cursor: pointer;
   transition: all 0.4s;
 }
