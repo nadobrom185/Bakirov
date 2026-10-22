@@ -141,7 +141,7 @@ html.visual body {
   isolation: isolate;
 
 }
-viz-cover-sticky::before {
+.viz-cover-sticky::before {
 
   content: "";
 
@@ -766,10 +766,9 @@ viz-cover-sticky::before {
 
   line-height: 0.85;
 
-}@media (max-width: 767px) {
-
+}
+@media (max-width: 767px) {
   :root {
-
     --space-xs: 6px;
 
     --space-sm: 12px;
@@ -777,7 +776,6 @@ viz-cover-sticky::before {
     --space-md: 18px;
 
     --space-lg: 36px;
-
   }
 
   .viz-cover-scroll {
